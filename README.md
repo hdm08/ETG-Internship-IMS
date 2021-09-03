@@ -40,9 +40,12 @@ Transaction id:{
                             }
                 }
       
- Product available in Inventory:
+ # Adding product to Inventory
+ ![Screenshot (3)](https://user-images.githubusercontent.com/65184650/131950271-880d6367-79e9-476a-ac1e-17a4b53ae89a.png)
+
+ # Product available in Inventory:
 ![Screenshot (1)](https://user-images.githubusercontent.com/65184650/131949918-89e9fc26-1e39-474d-869f-bf59517e4710.png)
 
-Sales list:
+# Sales list:
 ![Screenshot (2)](https://user-images.githubusercontent.com/65184650/131949908-2a39a2e1-e64c-4c3f-9bfb-6011159f3d9b.png)
 
