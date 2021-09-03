@@ -46,6 +46,10 @@ Transaction id:{
  # Product available in Inventory:
 ![Screenshot (1)](https://user-images.githubusercontent.com/65184650/131949918-89e9fc26-1e39-474d-869f-bf59517e4710.png)
 
+# Transaction
+![Screenshot (5)](https://user-images.githubusercontent.com/65184650/131950908-40c46095-74c8-46cb-9487-062be9521dfa.png)
+
+
 # Sales list:
-![Screenshot (2)](https://user-images.githubusercontent.com/65184650/131949908-2a39a2e1-e64c-4c3f-9bfb-6011159f3d9b.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/65184650/131950866-1f62dcc4-83b3-48d3-bb2b-8afb8f47b7c2.png)
 
