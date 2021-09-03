@@ -15,31 +15,34 @@ Sales.py: This file handles bill creation, record updation, creation of sales.js
 SalesList: Using this we can see all the transaction done.
 
 fields for record/product:
-Product_id: { name
-              category
-              Cost_each
-              quantity
-              unit_sold
+Product_id: { name,
+              category,
+              Cost_each,
+              quantity,
+              unit_sold,
               last_updated
         }
 
 fields for sales:
 Transaction id:{
-                  customer_name
-                  mob_no
-                  date_of_purchase
-                  total_item
-                  total_quantity
-                  total_cost
+                  customer_name,
+                  mob_no,
+                  date_of_purchase,
+                  total_item,
+                  total_quantity,
+                  total_cost,
                   products :{ 
-                              Product_id: { name
-                                            quantity
-                                            price_each
-                                            total_cost_per_Product
+                              Product_id: { name,
+                                            quantity,
+                                            price_each,
+                                            total_cost_per_Product,
                                       }
                             }
                 }
-                
+      
+ Product available in Inventory:
+![Screenshot (1)](https://user-images.githubusercontent.com/65184650/131949918-89e9fc26-1e39-474d-869f-bf59517e4710.png)
+
+Sales list:
 ![Screenshot (2)](https://user-images.githubusercontent.com/65184650/131949908-2a39a2e1-e64c-4c3f-9bfb-6011159f3d9b.png)
 
-![Screenshot (1)](https://user-images.githubusercontent.com/65184650/131949918-89e9fc26-1e39-474d-869f-bf59517e4710.png)
